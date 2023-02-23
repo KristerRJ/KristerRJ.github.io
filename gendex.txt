@@ -1,0 +1,102 @@
+;; Skapad av MinSläkt 4.7 2023-02-23, Programmet tillhör: Krister Johansson
+;;
+pa63fe101.html||x //|||||
+p61920dde.html|Andersdotter|Brita /Andersdotter/|1782|Grythyttan|||
+p0744720a.html|Andersdotter|Kristina /Andersdotter/|2APR 1729|Gruvan, Hällefors|||
+p3d37857f.html|Arvidsdotter|Brita /Arvidsdotter/|1768||28JAN 1822|Ormgården Bjurtjärn|
+pc22ac77f.html|Björkman|Anna Augusta /Björkman/|21MAY 1883|Eskilstuna|||
+p541d7f65.html|Björkman|Hilma Ulrika /Björkman/|10JUL 1874|Fors, Eskilstuna|23SEP 1893|Fors, Eskilstuna|
+pd8e3ee75.html|Björkman|Jan /Björkman/|2JAN 1829|Sångs rote, Hellefors, Örebro län|11SEP 1898|Fors, Eskilstuna|
+pa46eb6de.html|Björkman|Maria /Björkman/|3MAY 1863|Hällefors|||
+p3c6a6178.html|Björkman|Matilda /Björkman/|9APR 1858|Tysslinge|||
+p607d7162.html|Björkman|Victor /Björkman/|14NOV 1856|Garphytte bruk, Tysslinge|||
+p25f03236.html|Björnberg|Catharina /Björnberg/|1824|Lindesberg|||
+p1aa81d2a.html|Brickell|Anders /Brickell/|6OCT 1833|Sångs rote, Hällefors|||
+p03c49f44.html|Eriksdotter|Anna /Eriksdotter/|1SEP 1812|Ormgården, Drågen, Bjurtjärn|||
+pe812970f.html|Eriksdotter|Brita /Eriksdotter/|1797|Bjurtjärn|||
+pcd71e219.html|Eriksdotter|Maria /Eriksdotter/|1805|Bjurtjärn|1811|Ormgården, Drågen, Bjurtjärn|
+pfe3c9828.html|Eriksdotter|Stina /Eriksdotter/|1814|Ormgården, Drågen, Bjurtjärn|1820|Ormgården, Drågen, Bjurtjärn|
+pbd02fda5.html|Ersson (Eriksson)|Erik /Ersson (Eriksson)/|3JAN 1767|Åsjöhyttan, Bjurtjärn|13MAR 1844|Kojan, Lanforsen Nedre, Bjurtjärn|
+pb6ca2606.html|Ersson Öberg|Erik /Ersson Öberg/|24AUG 1800|Ormgården, Drågen, Bjurtjärn|||
+p7124c8a4.html|Ersson|Anders /Ersson/|15JUN 1823|Ormgården Bjurtjärn|||
+p19300f4c.html|Ersson|Arvid /Ersson/|1802|Bjurtjärn|1803|Bjurtjärn|
+pce40601d.html|Ersson|Helena /Ersson/|1757|Grythyttan|1757|Grythyttan|
+pd8213c98.html|Ersson|Lars /Ersson/|1727||||
+p8a405853.html|Ersson|Lars /Ersson/|10FEB 1825|Ormgården Bjurtjärn|||
+pb61aed63.html|Ersson|Mattias /Ersson/|1804|Bjurtjärn|||
+peeee52a1.html|Ersson|Petter /Ersson/|1809|Ormgården, Drågen, Bjurtjärn|||
+pb34db806.html|Feltström|Jan /Feltström/|18MAY 1775|Grythyttan|1806|Grythyttan|
+p4d633949.html|Fredriksson|Robert Fritz /Fredriksson/|6MAY 1891|Uddevalla|1968||
+p0a3befb7.html|Fältström|Brita Catrina /Fältström/|23AUG 1805|Grythyttan|||
+p4b55137d.html|Fältström|Jan /Fältström/|13OCT 1806|Grythyttan|||
+pf907e93b.html|Jansdotter|Anna /Jansdotter/|23JAN 1759|Gruvan, Hällefors|||
+p5d9e3d3f.html|Jansdotter|Anna /Jansdotter/|18JAN 1816||||
+pf7bcb408.html|Jansdotter|Brita /Jansdotter/|8MAY 1780|Grythyttan|2FEB 1852|Grythyttan|
+p53ad99e8.html|Jansdotter|Brita Ulla /Jansdotter/|23JAN 1831|Sångs rote, Hällefors|||
+p53a9dc7c.html|Jansdotter|Carolina /Jansdotter/|16NOV 1826||||
+p8097cbe1.html|Jansdotter|Katarina /Jansdotter/|1751||||
+p84621bdc.html|Jansdotter|Katarina /Jansdotter/|1753||||
+pae84fe52.html|Jansdotter|Maja Lisa /Jansdotter/|21OCT 1824||||
+pbd4f39bf.html|Jansdotter|Maria /Jansdotter/|1766||||
+pd96240cb.html|Jansdotter|Stina /Jansdotter/|1756||||
+p7dfb94cf.html|Jansdotter|Stina /Jansdotter/|10MAR 1819|Saxån|||
+p748b73c0.html|Janssdotter|Anna Cajsa /Janssdotter/|1792||||
+pe52a2366.html|Jansson Kisk|Jan /Jansson Kisk/|26DEC 1726|Gruvan Hällefors|||
+p17f7f189.html|Jansson Kisk|Johan /Jansson Kisk/|1761||||
+p323607cd.html|Jansson|Anders /Jansson/|1770||||
+p33058578.html|Jansson|Anders /Jansson/|13JAN 1786||1796||
+pc2b4bd59.html|Jansson|Erik /Jansson/|16MAR 1783|Grythyttan|||
+paeec6aa0.html|Jansson|Jan /Jansson/|25MAR 1755|Grythyttan|||
+pa9e04f3c.html|Jansson|Jan /Jansson/|14SEP 1776|Grythyttan|||
+p9425a60e.html|Jansson|Lars /Jansson/|19DEC 1777|Grythyttan|||
+p6f82168c.html|Jansson|Olof /Jansson/|1753|Grythyttan|1801||
+pbace232b.html|Jansson|Olof /Jansson/|1788|Grythyttan|||
+p31fc093f.html|Johansson|Karin Anna /Johansson/|||||
+p57002c8d.html|Johansson|Krister Robert /Johansson/|27JAN 1968|Västervik|||
+p60c96656.html|Johansson|Malin Linus Pontus /Johansson/|||||
+p9ff22b89.html|Johansson|Mats Hilding /Johansson/|||||
+pd1b1d1dc.html|Johansson|Solveig Elisabet /Johansson/|7JUL 1935|Kristinehamn|||
+p050f2d09.html|Larsdotter|Brita /Larsdotter/|1755|Grythyttan|||
+pa766a3c5.html|Larsdotter|Gretha /Larsdotter/|11AUG 1804|Grythyttan|||
+p107278e4.html|Larsdotter|Margareta /Larsdotter/|22NOV 1750|Grythyttan|||
+p7bd7a12a.html|Larsson|Brita Catharina /Larsson/|1MAR 1752|Grythyttan, Brunnsjötorp|||
+pe9f85ad2.html|Larsson|Jan /Larsson/|24NOV 1806|Grythyttan|||
+p8d735e8c.html|Nilsson Brickell|Olof /Nilsson Brickell/|1751|Bricka, Färnebo|21MAR 1813|Sången, Hällefors|
+p27980606.html|Nilsson|Anders Gustaf /Nilsson/|24APR 1865|Lindersberg, Linde Bergsförsamling|15FEB 1909|Björneborg|
+pb1f36271.html|Nilsson|Augusta /Nilsson/|7APR 1861|Hellefors, Örebro län|22APR 1922|Björneborg|
+pd8042725.html|Nilsson|Gustaf /Nilsson/|1821||||
+p545462ad.html|Nilsson|Gustaf Leonard Emanuel /Nilsson/|25SEP 1892|Eskilstuna|||
+p3edfcf15.html|Nilsson|Nils /Nilsson/|23FEB 1824|Bjurtjärn|||
+p4b1d3992.html|Nilsson|Nils Bror Amandeus /Nilsson/|26OCT 1900|Uppsala 2, Norrtälje|||
+p2752a0e1.html|Nilsson|Nils Valdemar /Nilsson/|15JUL 1897|Fors, Eskilstuna|16MAR 1898|Fors, Eskilstuna|
+p50e4816b.html|Nilsson|Ruth Elisabeth /Nilsson/|26MAR 1895|Fors, Södermanland|1990|Kristinehamn|
+p32be3b16.html|Ohlsson Brickell|Jan /Ohlsson Brickell/|20AUG 1796|Sången, Sångs rote, Hällefors|13APR 1843|Baggfallet, Sångs rote, Hällefors|
+p4d0b1854.html|Olofsdotter|Anna Stina /Olofsdotter/|4MAR 1850|Lindesberg|||
+pecddd2ac.html|Olofsdotter|Brita /Olofsdotter/|1793|Grythyttan|||
+pde1ef432.html|Olofsdotter|Catharina /Olofsdotter/|1785|Grythyttan|||
+p5f8758d3.html|Olofsdotter|Catharina /Olofsdotter/|20JUN 1799|Sången, Hällefors|||
+p2aca05b1.html|Olofsdotter|Catharina Charlotta /Olofsdotter/|||||
+p9cf95b16.html|Olofsdotter|Catharina Charlotta /Olofsdotter/|13AUG 1846|Lindesberg|||
+pd16f581c.html|Olofsdotter|Christina /Olofsdotter/|5JAN 1786|Gruvan, Hällefors|||
+pe600acee.html|Olofsdotter|Johanna Lovisa /Olofsdotter/|8MAY 1861|Lindesberg|||
+pf9233e80.html|Olofsdotter|Maria /Olofsdotter/|3APR 1781|Gruvan, Hällefors|||
+p0b469f17.html|Olofsson|Johan /Olofsson/|20AUG 1796|Sången. Hällefors|||
+pa984fa07.html|Olsdotter|Brita /Olsdotter/|23MAY 1794|Björnhöjden|14JUN 1845|Baggfallet, Sången egor, Sångs rote, Hällefors|
+paebf17d9.html|Olsdotter|Catharina /Olsdotter/|1726|Skjärhytta och Nora|29JUL 1799|Grythyttan, Brunnsjötorp|
+p723bfc1a.html|Olsson|Anders /Olsson/|1794|Grythyttan|1806|Grythyttan|
+pdf0d25e7.html|Olsson|Carl August /Olsson/|1JAN 1858|Lindesberg|||
+p713707c7.html|Olsson|Erik /Olsson/|1788|Grythyttan|||
+p2f408405.html|Olsson|Jan /Olsson/|3MAR 1787|Grythyttan|||
+p2cea55b6.html|Olsson|Lars /Olsson/|22DEC 1785|Grythyttan|||
+p8799bc08.html|Olsson|Nils /Olsson/|7DEC 1819|Grythyttan|||
+ped49f0c3.html|Olsson|Olof /Olsson/|1791|Grythyttan|15AUG 1799|Grythyttan, Brunnsjötorp|
+pc8fbae9d.html|Oofsdotter|Anna /Oofsdotter/|7NOV 1793|Sången, Hällefors|||
+p7ac90670.html|Persdotter|Annika /Persdotter/|1735||||
+p3c40d46e.html|Persson|Eric /Persson/|1728||||
+p419ba737.html|Westbom|Alma Matilda /Westbom/|4SEP 1905|Visnum|||
+p434fdb1a.html|Öberg|Anna Stina /Öberg/|7MAY 1830|Grythyttan|||
+p9c34965d.html|Öberg|Brita Sophia /Öberg/|26NOV 1848|Grythyttan|||
+p83a7bba4.html|Öberg|Carolina /Öberg/|10FEB 1837|Grythyttan|||
+pc9113e3f.html|Öberg|Erik Johan /Öberg/|8DEC 1835|Grythyttan|||
+pbce1fe26.html|Öberg|Maria Elisabet /Öberg/|25OCT 1833|Grythyttan|15JUL 1904|Fors församling|
+p917e761f.html|Öberg|Per Gustaf /Öberg/|13FEB 1840|Grythyttan|||
